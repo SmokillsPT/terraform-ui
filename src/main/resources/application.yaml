@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: terraform-ui
+  datasource:
+    url: jdbc:postgresql://localhost:5432/tfui
+    username: sanctions_user
+    password: sanctions_password
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: validate

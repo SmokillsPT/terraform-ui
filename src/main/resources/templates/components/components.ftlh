@@ -1,0 +1,10 @@
+<#include "sidebar.ftlh">
+<#include "topbar.ftlh">
+<#include "footer.ftlh">
+<#include "statCard.ftlh">
+<#include "detailCard.ftlh">
+<#include "progressBar.ftlh">
+<#include "colorCard.ftlh">
+<#include "modal.ftlh">
+<#include "button.ftlh">
+<#include "alert.ftlh">
